@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
         name = "ttech.api",
-        version = "0.1",
+        version = "0.2",
         description = "Python API bindings for both utilizing and hosting the secure RPC mechanism.",
         author = "Thoryna Valays",
         author_email = "info@thorynatech.info",
